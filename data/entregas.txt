@@ -1,0 +1,13 @@
+POLÍTICA DE ENTREGAS
+
+1. O cliente pode acompanhar o status do pedido pelo aplicativo.
+
+2. Após a confirmação do pagamento, o restaurante começa a preparar o pedido.
+
+3. O tempo estimado de entrega é informado no aplicativo e pode variar conforme a demanda e a localização.
+
+4. Caso o pedido esteja atrasado, o cliente deve consultar o status atualizado pelo aplicativo.
+
+5. Se o pedido não for entregue, o cliente deve entrar em contato com o suporte para verificar o ocorrido.
+
+6. O sistema não garante um prazo fixo para a resolução de atrasos.

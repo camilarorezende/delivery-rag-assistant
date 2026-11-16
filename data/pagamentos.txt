@@ -1,0 +1,9 @@
+POLÍTICA DE PAGAMENTOS
+
+1. O pagamento pode ser realizado pelos métodos disponíveis no aplicativo.
+
+2. Caso o pagamento seja recusado, o cliente deve verificar os dados do método de pagamento.
+
+3. Uma nova tentativa de pagamento pode ser realizada utilizando outro método disponível.
+
+4. O pedido só começa a ser preparado após a confirmação do pagamento.
