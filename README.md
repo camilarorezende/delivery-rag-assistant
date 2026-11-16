@@ -68,7 +68,7 @@ delivery-rag-assistant/
 ```bash
 git clone https://github.com/SEU-USUARIO/delivery-rag-assistant.git
 cd delivery-rag-assistant
-```-
+```
 
 ### 2. Crie um ambiente virtual
 
